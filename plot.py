@@ -1,4 +1,4 @@
-#While working for ONGC, I recieved three wavelets of 40 millisecond signal length. 
+
 #Plotting these wavelets and finding the correlation between them is the purpose of the code.
 #The input of these time-series is taken as a list of Amplitudes inside the code itself. 
 
